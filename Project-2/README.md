@@ -52,4 +52,7 @@ Decrypted text: HELLO WORLD 123!
 
 ![Program Output](Screenshots/Input_Output.png)
 
+## Author
+Abhay B S
+
 
