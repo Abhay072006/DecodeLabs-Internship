@@ -52,10 +52,4 @@ Decrypted text: HELLO WORLD 123!
 
 ![Program Output](Screenshots/Input_Output.png)
 
-### Encryption
 
-![Encryption](Screenshots/Encryption.png)
-
-### Decryption
-
-![Decryption](Screenshots/Decryption.png)
