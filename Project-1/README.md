@@ -24,14 +24,18 @@ This project is a Password Strength Checker developed in Python. It checks the s
 4. Enter a password when prompted.
 ## Sample Outputs
 
+## Sample Output
+
 ### Weak Password
-![Weak Password](screenshots/weak_password.png)
+
+![Weak Password](Screenshots/Weak%20password.png)
 
 ### Medium Password
-![Medium Password](screenshots/medium_password.png)
+
+![Medium Password](Screenshots/Medium%20Password.png)
 
 ### Strong Password
-![Strong Password](screenshots/strong_password.png)
 
+![Strong Password](Screenshots/Strong%20Password.png)
 ## Author
 Abhay B S
