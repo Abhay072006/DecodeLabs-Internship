@@ -26,3 +26,7 @@ The objective is to improve phishing detection skills and cybersecurity awarenes
 ### Analysis - Part 5
 
 ![Analysis Part 5](Screenshots/Analysis_Part5.png)
+
+## Conclusion
+
+This project helped me understand how phishing attacks work and how to identify fake sender addresses, suspicious links, malicious attachments, urgent messages, and social engineering techniques. I also learned the importance of verifying emails through official websites and avoiding untrusted links or attachments.
