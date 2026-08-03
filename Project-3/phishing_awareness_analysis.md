@@ -104,3 +104,23 @@ The email redirects users to a fake website that may steal login credentials or 
 - Do not click the link.
 - Open the official Amazon app or website directly.
 - Check order status from the official account.
+
+## Sample 4: Fake Google Security Alert
+
+### Red Flags Identified
+
+- Fake sender domain.
+- Urgent security warning.
+- Fake Google verification link.
+- 30-minute deadline.
+- Threat of permanent account suspension.
+
+### Why is it Unsafe?
+
+The email attempts to create panic and redirect users to a fake login page to steal their Google account credentials.
+
+### Safe Action
+
+- Do not click the link.
+- Open Gmail using the official website or app.
+- Verify account security through Google's official Security page.
