@@ -87,3 +87,20 @@ The attachment is an executable (`.exe`) file disguised as a PDF document. Runni
 - Verify the internship through the official website or HR contact.
 - Delete or report the email if it is confirmed to be phishing.
   
+## Sample 3: Fake Amazon Delivery Email
+
+### Red Flags Identified
+
+- Fake tracking link.
+- Domain tries to imitate Amazon.
+- Link does not point to the official Amazon website.
+
+### Why is it Unsafe?
+
+The email redirects users to a fake website that may steal login credentials or personal information.
+
+### Safe Action
+
+- Do not click the link.
+- Open the official Amazon app or website directly.
+- Check order status from the official account.
