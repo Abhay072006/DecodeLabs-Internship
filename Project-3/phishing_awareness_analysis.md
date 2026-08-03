@@ -45,3 +45,45 @@ The email attempts to scare the user into clicking a fake website. The sender ad
 - Do not click the link.
 - Open the official PayPal app or website directly.
 - Verify account notifications through the official account.
+
+## Sample 2: Fake Internship Selection Email
+
+### Email
+
+From: hr@reva-careers.com
+
+Subject: Important: Internship Selection List Released
+
+Dear Student,
+
+Congratulations!
+
+You have been selected for the final internship round.
+
+Please download the attached file "Internship_List.pdf.exe" and complete your verification today.
+
+If you fail to verify before 6:00 PM, your offer will be cancelled.
+
+Regards,
+HR Team
+
+---
+
+### Red Flags Identified
+
+- Suspicious sender email.
+- Generic greeting ("Dear Student").
+- Double extension attachment (`.pdf.exe`).
+- Urgent deadline (6:00 PM).
+- Threat of offer cancellation.
+
+### Why is it Unsafe?
+
+The attachment is an executable (`.exe`) file disguised as a PDF document. Running it could install malware or steal sensitive information.
+
+### Safe Action
+
+- Do not download or open the attachment.
+- Verify the internship through the official website or HR contact.
+- Delete or report the email if it is confirmed to be phishing.
+  
