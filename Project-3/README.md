@@ -4,7 +4,6 @@ This project analyzes phishing emails by identifying suspicious links, red flags
 
 The objective is to improve phishing detection skills and cybersecurity awareness.
 
-
 ## Screenshots
 
 ### Analysis - Part 1
@@ -26,6 +25,14 @@ The objective is to improve phishing detection skills and cybersecurity awarenes
 ### Analysis - Part 5
 
 ![Analysis Part 5](Screenshots/Analysis_Part5.png)
+
+### Analysis - Part 6
+
+![Analysis Part 6](Screenshots/Analysis_Part6.png)
+
+### Analysis - Part 7
+
+![Analysis Part 7](Screenshots/Analysis_Part7.png)
 
 ## Conclusion
 
