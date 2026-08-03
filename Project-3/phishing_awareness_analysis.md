@@ -88,6 +88,24 @@ The attachment is an executable (`.exe`) file disguised as a PDF document. Runni
 - Delete or report the email if it is confirmed to be phishing.
   
 ## Sample 3: Fake Amazon Delivery Email
+### Email
+
+From: support@amazon.com
+
+Subject: Your Amazon Order Has Been Delayed
+
+Hello Abhay,
+
+We apologize for the delay in delivering your recent order.
+
+To track your package, please click the link below:
+
+https://amazon.com.track-order-login.info
+
+Thank you for shopping with Amazon.
+
+Amazon Customer Support
+
 
 ### Red Flags Identified
 
@@ -106,6 +124,26 @@ The email redirects users to a fake website that may steal login credentials or 
 - Check order status from the official account.
 
 ## Sample 4: Fake Google Security Alert
+
+### Email
+
+From: security@google-support.com
+
+Subject: Security Alert: Unusual Sign-in Attempt Detected
+
+Hi Abhay,
+
+We detected a login attempt from a new device in another country.
+
+If this wasn't you, please secure your account immediately by clicking the link below:
+
+https://accounts.google.com.verify-user-login.net
+
+You have 30 minutes to verify your identity, or your Gmail account will be permanently disabled.
+
+Thank you,
+
+Google Security Team
 
 ### Red Flags Identified
 
