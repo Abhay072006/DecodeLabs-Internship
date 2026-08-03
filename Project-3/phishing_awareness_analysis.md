@@ -124,3 +124,7 @@ The email attempts to create panic and redirect users to a fake login page to st
 - Do not click the link.
 - Open Gmail using the official website or app.
 - Verify account security through Google's official Security page.
+
+## Conclusion
+
+This project improved my understanding of phishing attacks by helping me identify suspicious links, fake sender addresses, urgent language, malicious attachments, and social engineering techniques. I also learned the importance of verifying emails through official websites and avoiding untrusted links or attachments.
